@@ -94,5 +94,6 @@ Our goals are to continue to develop the snapshot+restore technology and to shar
 
 Sound interesting?  Then join in with the snapshot+restore efforts by checking out the [`snapshot`](https://github.com/eclipse/openj9/tree/snapshot) branch, joining the #snapshot channel on the [OpenJ9 slack](https://join.slack.com/t/openj9/shared_invite/enQtNDU4MDI4Mjk0MTk2LWVhNTMzMGY1N2JkODQ1OWE0NTNmZjM4ZDcxOTBiMjk3NGFjM2U0ZDNhMmY0MDZlNzU0ZjAyNzQ1ODlmYjg3MjA), or engaging with us on GitHub.
 
---
+----
+
 (Many thanks to reviewers for comments and suggestions: Andrew Craik, Ashutosh Mehra, Daryl Maier, Mark Stoodley, Theresa Mammarella, Vijay Sundaresan)
