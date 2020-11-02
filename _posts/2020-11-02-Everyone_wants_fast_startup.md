@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everyone wants fast startup: introducing JVM snapshot+restore
+title: 'Everyone wants fast startup: introducing JVM snapshot+restore'
 ---
 
 The Eclipse OpenJ9 project has a strong focus on finding the right balance between startup performance, peak throughput and memory usage.  And we've done a pretty good job of it - see any of our [claims](https://www.eclipse.org/openj9/performance/) about fast startup with comparable performance in roughly half the memory.  
